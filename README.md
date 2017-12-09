@@ -10,4 +10,4 @@ FML Logger is a simple logger with 3 methods, INFO, WARN and ERROR.  FML Logger 
     [11:10:23] [main/INFO] [Main]: Loading spritesheets
     [11:10:24] [main/INFO] [Main]: Dodge League has successfully loaded
 
-![Informational Image](http://squishling.co.uk/FML_Logger.png)
+![Informational Image](https://squishling.co.uk/images/FML_Logger.png)
